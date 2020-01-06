@@ -1,4 +1,6 @@
 Spaghetti    Recipe_Spaghetti.txt
 beefsteak    beefsteak.txt
 komkommer   komkommer.txt
-ijs
+chocomelk met worstjes
+bankbiljetten
+123475
